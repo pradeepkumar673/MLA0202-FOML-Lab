@@ -35,3 +35,5 @@ print("Specific Hypothesis S:")
 print(specific_h)
 print("General Hypothesis G:")
 print(general_h)
+
+#exp2
