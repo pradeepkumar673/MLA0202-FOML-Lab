@@ -1,3 +1,4 @@
+#exp10
 import numpy as np
 from sklearn.mixture import GaussianMixture
 from sklearn.datasets import make_blobs
